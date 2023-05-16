@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Austin Huynh",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "favicon": "/images/austinhuynh_logo_small_dark.svg",
+    "logo": "/images/austinhuynh_logo.svg",
+    "logo_darkmode": "/images/austinhuynh_logo_dark.svg",
+    "logo_width": "120",
+    "logo_height": "50",
+    "logo_text": "Austin Huynh"
   },
 
   "settings": {
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2023 Austin Huynh"
   },
 
   "navigation_button": {
